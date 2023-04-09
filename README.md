@@ -19,3 +19,4 @@ If we compare it to the average of total arrival per world countries (assuming t
 
 ## International Departure in ASEAN
 Not only we want to see the trend of international tourist activity into our country, but we want to see how our citizens activity as tourist in another country.
+![Departure ASEAN](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/departure%20asean.png)
