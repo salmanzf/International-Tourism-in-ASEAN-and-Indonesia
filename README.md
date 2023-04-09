@@ -13,4 +13,5 @@ Countries in ASEAN become **the destination of international tourism about 6% of
 | Visitor Growth in 2019:| 19,81% | 6,6% | 1,88% | 14,44% | 1,04% | 22,95% | 15,90% | 3,27% | 4,55% | 16,20% |
 
 ### International Arrival in Indonesia
-Indonesia has a total of 16,1 Millions total international tourist visitor in 2019, which is an increase of 1,88% compared to previous year. While it has an increase from previous year, it has one of the lowest growth of total international tourist visitor in ASEAN. In 2019 Indonesia is the 5th most desirable destination country among ASEAN countries, overtaken by Viet Nam at 4th spot.
+Indonesia has a total of 16,1 Millions total international tourist visitor in 2019, which is an increase of 1,88% compared to previous year. Despite the increase, it has one of the lowest growth of total international tourist visitor in ASEAN (2nd lowest). In 2019 Indonesia is the 5th most desirable destination country among ASEAN countries, overtaken by Viet Nam at 4th spot.
+![Visitor to Indonesia](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/visitor%20to%20indonesia.png)
