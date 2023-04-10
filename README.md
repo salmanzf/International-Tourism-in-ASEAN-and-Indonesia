@@ -33,3 +33,7 @@ Thailand as the number 1 international tourist destination spot in ASEAN has low
 We can see huge discrepancy between Singapore and other ASEAN countries in terms of departure rate. The main difference between Singapore and other ASEAN countries is only Singapore categorized as "World Bank High Income" and by a really huge margin compared to others.
 ![depart world bank](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/depart%20world%20bank%20income.png)
 We can see the correlation between GNI of countries with interest of outbound tourist interest, **the higher GNI of country then the higher interest of its citizen to travel as a tourist to another country**.
+
+## Expenditure on International Tourist
+We can see the characteristic of its outbound citizens in other country by looking at the amount of spending/expenditure.
+![expenditure per depart](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/expenditure%20per%20depart_asean_2016.png)
