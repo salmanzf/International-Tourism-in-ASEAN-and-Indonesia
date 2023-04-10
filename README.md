@@ -7,6 +7,7 @@ https://public.tableau.com/app/profile/salman.zahid.fathurrahman/viz/Internation
 ## International Arrival in ASEAN
 Countries in ASEAN become **the destination of international tourism about 6% of total destination in 2019**. Among them Thailand become the favorite destination contributing 28% of total destination in 2019.
 ![Visitor to ASEAN](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/visitor%20to%20asean.png)
+*Figure 1. Total Arrival in ASEAN [[1]](https://data.worldbank.org/indicator/ST.INT.ARVL?name_desc=false)*
 2019 is a good year for international tourism in ASEAN, all of the countries has increases in total visitor from international tourist either slightly or significant.
 
 | Country:| Brunei Darussalam | Cambodia | Indonesia | Lao PDR | Malaysia | Myanmar | Philipines | Singapore | Thailand | Viet Nam |
