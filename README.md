@@ -44,3 +44,4 @@ With the existing limited dataset, we can see in fact Philipines and Cambodia ar
 # International Tourism in 2020 (COVID-19)
 Year 2020 is a rough year for every country in the world because of COVID-19. ASEAN countries included, where GDP plummeted in all of the countries[[3]](https://www.oecd.org/southeast-asia/ERIA%20COVID19%20and%20ASEAN%20Connectivity.pdf).
 ![dip rate visitor](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/asean_dip%20rate_total%20visitor.png)
+![dip rate bar](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/dip%20rate%20bar_visitor.png)
