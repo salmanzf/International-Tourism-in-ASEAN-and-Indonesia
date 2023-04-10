@@ -40,3 +40,5 @@ We can see the characteristic of its outbound citizens in other country by looki
 Singapore is expected to has highest expenditure per departure, as it has the highest GNI per capita by a wide compared to the rest of ASEAN countries. The surprise is Philippines, it has lower GNI per capita than Thailand and only slightly higher than Indonesia. Cambodia also has higher expenditure despite having half GNI per capita than Lao PDR.
 ![world bank expenditure per departure](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/world%20bank_expenditure%20per%20departure.png)
 With the existing limited dataset, we can see in fact Philipines and Cambodia are anomalies. The graph shows countries with higher income tend to spend more money per departure for international tourism.
+
+# International Tourism in 2020 (COVID-19)
