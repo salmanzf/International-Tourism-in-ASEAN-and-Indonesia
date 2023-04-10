@@ -42,3 +42,4 @@ Singapore is expected to has highest expenditure per departure, as it has the hi
 With the existing limited dataset, we can see in fact Philipines and Cambodia are anomalies. The graph shows countries with higher income tend to spend more money per departure for international tourism.
 
 # International Tourism in 2020 (COVID-19)
+Year 2020 is a rough year for every country in the world because of COVID-19. ASEAN countries included, where GDP plummeted in all of the countries[[3]](https://www.oecd.org/southeast-asia/ERIA%20COVID19%20and%20ASEAN%20Connectivity.pdf).
