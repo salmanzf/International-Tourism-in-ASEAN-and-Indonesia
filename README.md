@@ -21,6 +21,7 @@ If we compare it to the average of total arrival per world countries (assuming t
 ## Revenue of International Tourism
 This is the most important aspect for destination country to determine whether international tourism sector is succesful or not besides the total visit.
 ![Revenue ASEAN](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/revenue_asean.png)
+![Revenue per Visit](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/revenue%20per%20visit_asean.png)
  
 # Outbound International Tourism Activity
 ## International Departure in ASEAN
