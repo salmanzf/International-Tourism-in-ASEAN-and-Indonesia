@@ -22,6 +22,7 @@ If we compare it to the average of total arrival per world countries (assuming t
 This is the most important aspect for destination country to determine whether international tourism sector is succesful or not besides the total visit.
 ![Revenue ASEAN](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/revenue_asean.png)
 ![Revenue per Visit](https://github.com/salmanzf/International-Tourism-in-ASEAN-and-Indonesia/blob/streamlit/plot%20picture/revenue%20per%20visit_asean.png)
+In 2018, Thailand become the most successful country in ASEAN in terms of total revenue since its high correlation with total visit. It also has the most spending per visit followed by Philipines and Indonesia which imply these 3 countries has potential to expand more tourism spot, especially Philippines and Indonesia since these two has lower total revenue and total visit yet has more revenue per visit than Singapore and Malaysia.
  
 # Outbound International Tourism Activity
 ## International Departure in ASEAN
