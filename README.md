@@ -4,7 +4,10 @@ ASEAN International Dashboard Activity:
 https://public.tableau.com/app/profile/salman.zahid.fathurrahman/viz/InternationalTourisminASEAN/Dashboard1
 
 # Table of Content
-1. (# Inbound International Tourism Activity)
+1. [Inbound International Tourism Activity](#Inbound-International-Tourism-Activity)
+   1. [International Arrival in ASEAN](#International-Arrival-in-ASEAN)
+      1. [International Arrival in Indonesia](#International-Arrival-in-Indonesia)
+   2. [Revenue of International Tourism](#Revenue-of-International-Tourism)
 
 # Inbound International Tourism Activity
 ## International Arrival in ASEAN
