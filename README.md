@@ -8,6 +8,11 @@ https://public.tableau.com/app/profile/salman.zahid.fathurrahman/viz/Internation
    1. [International Arrival in ASEAN](#International-Arrival-in-ASEAN)
       1. [International Arrival in Indonesia](#International-Arrival-in-Indonesia)
    2. [Revenue of International Tourism](#Revenue-of-International-Tourism)
+2. [Outbound International Tourism Activity](#Outbound-International-Tourism-Activity)
+   1. [International Departure in ASEAN](#International-Departure-in-ASEAN)
+   2. [Expenditure on International Tourist](#Expenditure-on-International-Tourist)
+3. [International Tourism in 2020 (COVID-19)](#International-Tourism-in-2020-(COVID-19))
+4. [Conclusion](#Conclusion)
 
 # Inbound International Tourism Activity
 ## International Arrival in ASEAN
