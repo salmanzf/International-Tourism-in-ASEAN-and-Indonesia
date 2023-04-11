@@ -50,7 +50,7 @@ All of the economy sector in ASEAN got affected, and obviously so does the inter
 
 # Conclusion
 - ASEAN countries have positive trend in International Tourism sector before COVID-19 struck
-- Indonesia's late international tourism campaign cost the growth delay of international tourist arrival in Indonesia
+- Indonesia's late international tourism campaign cost the growth delay of international tourist interest in Indonesia
 - Thailand is the most successful country in ASEAN Internatioanl Tourism sector, raking the most total visitor and total revenue
 - Singapore citizens has the most active international activity and spend the most among ASEAN countries as international tourist
 - COVID-19 affect the International Tourism sector in ASEAN to fall off 80% compared to the previous year
